@@ -18,7 +18,7 @@ The analysis covers:
 ## Project Screenshots
 
 ### KPIs Overview
-![KPIs](images/kpis.png)
+![KPIs](images/KPIs.png)
 
 ---
 
@@ -38,17 +38,22 @@ The analysis covers:
 ---
 
 ### Customer Segments Distribution
-![Customer Segments](images/customer_segments_distribution.png)
+![Customer Segments Distribution](images/customer_segments_distribution.png)
+
+---
+
+### Customer Segments Percentage
+![Customer Segments Percentage](images/customer_segments_Percentage.png)
 
 ---
 
 ### Active Customers Trend
-![Active Customers](images/active_customers_trend.png)
+![Active Customers Trend](images/active_customers_trend.png)
 
 ---
 
-### Retention Analysis
-![Retention Analysis](images/retention_analysis.png)
+### Retained Customers Analysis
+![Retained Customers](images/retained_customer.png)
 
 ---
 
@@ -164,5 +169,5 @@ The goal of this project is to:
 ---
 
 ## Author
-Mohamed H
-Aspiring Data Analyst passionate about SQL, Power BI, and Business Analytics.
+- Mohamed Hesham 
+- Aspiring Data Analyst passionate about SQL, Power BI, and Business Analytics.
