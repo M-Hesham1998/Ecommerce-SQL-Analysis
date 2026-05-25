@@ -18,52 +18,52 @@ The analysis covers:
 ## Project Screenshots
 
 ### KPIs Overview
-[KPIs](images/KPIs.png)
+![KPIs](Images/KPIs.png)
 
 ---
 
 ### Repeat Purchase Rate
-![Repeat Purchase Rate](images/repeat_purchase_rate.png)
+![Repeat Purchase Rate](Images/repeat_purchase_rate.png)
 
 ---
 
 ### Customer Lifetime Analysis
-![Customer Lifetime](images/customer_lifetime.png)
+![Customer Lifetime](Images/customer_lifetime.png)
 
 ---
 
 ### RFM Customer Segmentation
-![RFM Segmentation](images/rfm_segmentation.png)
+![RFM Segmentation](Images/rfm_segmentation.png)
 
 ---
 
 ### Customer Segments Distribution
-![Customer Segments Distribution](images/customer_segments_distribution.png)
+![Customer Segments Distribution](Images/customer_segments_distribution.png)
 
 ---
 
 ### Customer Segments Percentage
-![Customer Segments Percentage](images/customer_segments_Percentage.png)
+![Customer Segments Percentage](Images/customer_segments_Percentage.png)
 
 ---
 
 ### Active Customers Trend
-![Active Customers Trend](images/active_customers_trend.png)
+![Active Customers Trend](Images/active_customers_trend.png)
 
 ---
 
 ### Retained Customers Analysis
-![Retained Customers](images/retained_customer.png)
+![Retained Customers](Images/retained_customer.png)
 
 ---
 
 ### Cohort Analysis
-![Cohort Analysis](images/cohort_analysis.png)
+![Cohort Analysis](Images/cohort_analysis.png)
 
 ---
 
 ### Revenue by City
-![Revenue by City](images/revenue_by_city.png)
+![Revenue by City](Images/revenue_by_city.png)
 
 
 ## SQL Skills & Techniques Used
