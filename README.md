@@ -169,5 +169,5 @@ The goal of this project is to:
 ---
 
 ## Author
-- Mohamed Hesham 
+ Mohamed Hesham 
 - Aspiring Data Analyst passionate about SQL, Power BI, and Business Analytics.
