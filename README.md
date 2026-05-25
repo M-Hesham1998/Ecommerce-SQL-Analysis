@@ -18,7 +18,7 @@ The analysis covers:
 ## Project Screenshots
 
 ### KPIs Overview
-![KPIs](images/KPIs.png)
+[KPIs](images/KPIs.png)
 
 ---
 
